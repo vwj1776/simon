@@ -7,3 +7,7 @@ cs260 code for simon
 From my dev environment. 
 
 hello from github
+
+
+I accidently named it simon, my bad. 
+The git pull and push and version control is so cool to me. For work we use github and just now with the class I am learning why we use the tools we do and not just how to use them.
